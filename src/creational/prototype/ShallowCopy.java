@@ -1,6 +1,6 @@
 package creational.prototype;
 
-public class ShallowCopy {
+public class Test {
 		
 	 public static void main(String[] args) throws CloneNotSupportedException {
 		 
